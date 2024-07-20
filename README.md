@@ -8,4 +8,4 @@ dont ;
 
 4 ) hit me with items 
 
-the rest are mentioned in my boundary rentry , [here](https://rentry.co/bosptboundries)
+the rest are mentioned in my boundary rentry , [**here**](https://rentry.co/bosptboundries)
