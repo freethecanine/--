@@ -4,7 +4,7 @@ dont ;
 
 2 ) boop me repeatively to annoy me 
 
-3 )  flirting , pet naming , ships
+3 )  flirting , pet naming (if /srs) , ships
 
 4 ) hit me with items 
 
