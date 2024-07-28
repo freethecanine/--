@@ -4,7 +4,7 @@ dont ;
 
 2 ) boop me repeatively to annoy me 
 
-3 )  flirting , ships (if /srs)
+3 ) ships w/o permission (if /srs)
 
 4 ) hit me with items 
 
